@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hello i'm Arda! I'm a self-taught fullstack developer(i think i can say that)!
 🌱 I’m currently learning Java, NextJS <br>
 
 
