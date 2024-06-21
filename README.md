@@ -1,22 +1,20 @@
-# 💫 About Me:
-👋 Hello i'm Arda! I'm a self-taught fullstack developer(i think i can say that)! <br>
-🌱 I’m currently learning Java, NextJS <br>
+# Hi 👋, I'm Arda (19)
+## I'm a self-taught fullstack developer(at least i'm trying to be).
+### My Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardaetzz&theme=github-dark-blue&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ardaetzz&layout=compact&theme=transparent&langs_count=6&hide_border=false&border_radius=20)
+[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardaetzz&theme=react-dark&custom_title=My%20Activity%20Graph%20📈)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## About Me
+>Hi!
+>
+>Hi! My name is Arda and I'm 19 years old. I'm currently working on fullstack web development. I don't have any degree etc. in this field. I am a completely self-taught developer. I continue my software life, which I started with the enthusiasm of game development, in the field of fullstack web development. I am still improving myself in this field. I have been playing computer games as a hobby since my early ages. I do software development as a passion rather than a profession
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardaetiz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/winprix) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ardawinp) 
+### My Skills
+- Backend: C#, NodeJS, Java
+- Frontend: HTML5, CSS3, Javascript, Typescript, TailwindCSS, Bootstrap
+  - Frameworks: ReactJS, NextJS
+- Database: MySQL, MongoDB
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ardaetzz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ardaetzz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaetzz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ardaetzz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ardaetzz&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![My Skills](https://skillicons.dev/icons?i=cs,java,express,next,react,tailwind,bootstrap,html,css,js,ts,mysql,mongodb)](https://skillicons.dev)
