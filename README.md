@@ -3,12 +3,13 @@
 ### My Github Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ardaetzz&theme=github-dark-blue&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&mode=daily" align="center" />
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ardaetzz&layout=compact&theme=github_dark&langs_count=6&hide_border=false&border_radius=20" align="center" />
 </div><br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ardaetzz&theme=github-dark-blue&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&mode=daily" align="center" />
+</div>
+<br/>
 
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardaetzz&theme=react-dark&custom_title=My%20Activity%20Graph%20📈)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
