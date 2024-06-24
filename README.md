@@ -27,4 +27,4 @@
   - Frameworks: ReactJS, NextJS
 - Database: MySQL, MongoDB
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,express,next,react,tailwind,bootstrap,html,css,js,ts,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,react,tailwind,bootstrap,html,css,js,ts,mysql,mongodb)](https://skillicons.dev)
